@@ -31,7 +31,7 @@ export const ProposalHeader = ({
             <div className="inline-block p-6 rounded-2xl bg-white/5 backdrop-blur-sm border border-white/10 mb-8 shadow-luxury">
               <h1 className="font-playfair text-6xl md:text-8xl mb-4 tracking-tight leading-none font-bold lg:text-2xl">
                 Proposta Exclusiva The Forge AI
-                <span className="block text-5xl md:text-7xl lg:text-8xl mt-3 text-accent-gold drop-shadow-lg animate-pulse">Thiago Aproville</span>
+                <span className="block text-5xl md:text-7xl lg:text-8xl mt-3 text-accent-gold drop-shadow-lg animate-pulse">VOLARE</span>
               </h1>
             </div>
           </div>
