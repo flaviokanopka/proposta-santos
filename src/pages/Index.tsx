@@ -291,7 +291,7 @@ const Index = () => {
           <PricingCard
             title="Investimento da Solução"
             monthlyPrice="2.500"
-            implementationPrice="4.500"
+            implementationPrice="4.000"
             popular={true}
             features={[
               "Agente de Pré-Atendimento completo",
